@@ -21,7 +21,7 @@ ClonePepsi is a web project that replicates the iconic Pepsi interface. This int
 - `script.js`: The JavaScript file that contains the logic for updating the interface.
 
 ## Contributions
-Your contributions are very welcome! If you have ideas or suggestions to improve this login form, feel free to create a 'pull request' or open an 'issue' in the repository.
+Contributions to this project are welcome. If you have suggestions or improvements, please feel free to create a 'pull request' or open an 'issue' in the repository.
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). This license allows the use, copying, modification, and distribution of the code, both for private and commercial projects, as long as the original copy and copyright are included. It is a popular choice for software projects due to its simplicity and flexibility.
